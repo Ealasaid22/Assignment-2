@@ -142,7 +142,3 @@ plt.title("Number of plants per group with a weight greater than 5.5")
 plt.xlabel("Group")
 plt.ylabel("Count")
 plt.show()
-
-
-
-
